@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Quoo4WqHBJ5ePKSg2yveWCvFhkJfmUraSTalcni5ryH5WHLOFXd60tRt4+Ji1leNn9THyLL28ZcEAD/bpq4Nrg==",
+  "dgSpecHash": "nBKbh8prvs+iJO3SWgSYdKjGAAnQSBrjD5n92GlToY1awe0X3LyA8YiA1ZH1889MSrlnGypGVWFGZTmXRM3Hbw==",
   "success": true,
-  "projectFilePath": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\MyFirstApp\\MyFirstApp\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Beetle Rim\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Beetle Rim\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

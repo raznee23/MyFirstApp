@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UXOUj/sQ5IdHOZfQx1oiDXkiCHG+RQ0aKPrdchATG5vG8rEMyuxKHziIt15usRuwLLMW6bHcQZBy2D0qC+2jAw==",
+  "dgSpecHash": "9TIs0terG3o00Cu8HTTMDMSeF/gK5wNVkf4ua+oUOcUyU+q/+3s8G/el45WkotKPjLOiQnD6ZFsw0DzxJexQVw==",
   "success": true,
-  "projectFilePath": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\MyFirstApp\\MyFirstApp\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Beetle Rim\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Beetle Rim\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

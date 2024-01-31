@@ -5156,11 +5156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\MyFirstApp\\MyFirstApp\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\MyFirstApp\\MyFirstApp\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Beetle Rim\\.nuget\\packages\\",
-      "outputPath": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\WebAPI\\obj\\",
+      "outputPath": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\MyFirstApp\\MyFirstApp\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Beetle Rim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5178,8 +5178,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\Services\\Services.csproj": {
-              "projectPath": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\Services\\Services.csproj"
+            "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\MyFirstApp\\MyFirstApp\\Services\\Services.csproj": {
+              "projectPath": "C:\\Rajanikanth\\HRMS\\MyBank\\MyBank\\MyFirstApp\\MyFirstApp\\Services\\Services.csproj"
             }
           }
         }
